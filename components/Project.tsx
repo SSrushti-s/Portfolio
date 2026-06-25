@@ -12,7 +12,7 @@ const projectData = [
   {
     title: "AI Resume Reviewer",
     desc: "An AI-powered web application tool extracts content from a user's PDF resume, analyzes it against a target job description, and provides a structured JSON evaluation including a match percentage score, identified skill gaps, and critical recommendations.",
-    tags: ["LangGraph", "Groq LLM (llama-3.3-70b) ", "FastAPI", "Pydantic v2" , "Render"],
+    tags: ["Streamlit", "LangChain ", "Groq cloud", "pypdf" , "Vercel"],
     github: "https://github.com/SSrushti-s/ai-resume-reviewer",
     demo: "https://ai-resume-reviewer-7mdbo4mgsvcg6mqklvgpph.streamlit.app/"
   },
