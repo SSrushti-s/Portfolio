@@ -3,19 +3,34 @@ import { motion } from "framer-motion";
 
 const projectData = [
   {
+    title: "AI App Compiler",
+    desc: "A multi-stage AI pipeline for converting Natural Language prompts into complete, validated, executable application schemas including UI, API, database, and auth layers.",
+    tags: ["LangGraph", "Groq LLM (llama-3.3-70b) ", "FastAPI", "Pydantic v2" , "Render"],
+    github: "https://github.com/SSrushti-s/ai-app-compiler",
+    demo: "https://ai-app-compiler-3usm.onrender.com/ui"
+  },
+  {
+    title: "AI Resume Reviewer",
+    desc: "An AI-powered web application tool extracts content from a user's PDF resume, analyzes it against a target job description, and provides a structured JSON evaluation including a match percentage score, identified skill gaps, and critical recommendations.",
+    tags: ["LangGraph", "Groq LLM (llama-3.3-70b) ", "FastAPI", "Pydantic v2" , "Render"],
+    github: "https://github.com/SSrushti-s/ai-resume-reviewer",
+    demo: "https://ai-resume-reviewer-7mdbo4mgsvcg6mqklvgpph.streamlit.app/"
+  },
+  {
+    title: "Recruiting CRM",
+    desc: "A highly optimized, full-stack Candidate Relationship Management (CRM) platform designed for tech professionals to manage high-volume job search pipelines in real-time.",
+    tags: ["Next.js","Prisma", "TypeScript", "Supabase PostgreSQL", "TailwindCSS"],
+    github: "https://github.com/SSrushti-s/Recruit-CRM",
+    demo: "https://recruit-crm.vercel.app/"
+  },
+  {
     title: "Email Triage OpenEnv",
     desc: "A standardized AI environment for evaluating email management agents.",
     tags: ["FastAPI", "Docker", "OpenEnv", "Python"],
     github: "https://github.com/SSrushti-s/OpenEnv",
     demo: "https://huggingface.co/spaces/srushtis16/mywork"
   },
-  {
-    title: "VitalVoice",
-    desc: "Voice AI platform for reporting civic issues using real-time audio pipelines.",
-    tags: ["ElevenLabs", "Twilio", "Next.js", "n8n"],
-    github: "#",
-    demo: "#"
-  }
+  
 ];
 
 export default function Projects() {
