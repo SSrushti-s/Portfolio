@@ -20,7 +20,7 @@ const projectData = [
     title: "Recruiting CRM",
     desc: "A highly optimized, full-stack Candidate Relationship Management (CRM) platform designed for tech professionals to manage high-volume job search pipelines in real-time.",
     tags: ["Next.js","Prisma", "TypeScript", "Supabase PostgreSQL", "TailwindCSS"],
-    github: "https://github.com/SSrushti-s/Recruit-CRM",
+    github: "https://github.com/SSrushti-s/Recruit_CRM",
     demo: "https://recruit-crm.vercel.app/"
   },
   {
