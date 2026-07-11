@@ -30,6 +30,14 @@ const projectData = [
     github: "https://github.com/SSrushti-s/Recruit_CRM",
     demo: "https://recruit-crm.vercel.app/",
     category: "Web Apps" as ProjectCategory
+  },
+  {
+    title: "FoodDel",
+    desc: "A full-stack food delivery web application that allows users to place orders, manage their cart and track delivery status in real time.",
+    tags: ["React.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"],
+    github: "https://github.com/SSrushti-s/FoodDel",
+    demo: "https://fooddel-frontend-f4wo.onrender.com/",
+    category: "Web Apps" as ProjectCategory
   }
   
 ];
