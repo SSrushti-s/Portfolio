@@ -32,6 +32,14 @@ const skillCategories = [
 
 const timelineData = [
   {
+    role: "AI Engineer Intern",
+    org: "Ehe AI Signal",
+    date: "Jul 2026 - Sep 2026",
+    desc: "Engineered a zero-cost Python pipeline that automates real-time data ingestion from 600+ RSS feeds and YouTube channels using yt-dlp, capturing traceable metadata for 300+ daily sources without paid APIs.",
+    icon: Cpu,
+    color: "bg-purple-600",
+  },
+  {
     role: "Front End Web Development Intern",
     org: "Edunet Foundation",
     date: "Sep 2025 - Oct 2025",
