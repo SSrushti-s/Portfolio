@@ -31,14 +31,16 @@ const projectData = [
     demo: "https://recruit-crm.vercel.app/",
     category: "Web Apps" as ProjectCategory
   },
+  
   {
-    title: "FoodDel",
-    desc: "A full-stack food delivery web application that allows users to place orders, manage their cart and track delivery status in real time.",
-    tags: ["React.js", "Node.js", "Express.js", "MongoDB", "TailwindCSS"],
-    github: "https://github.com/SSrushti-s/FoodDel",
-    demo: "https://fooddel-frontend-f4wo.onrender.com/",
-    category: "Web Apps" as ProjectCategory
-  }
+    title: "VoxHire AI",
+    desc: "An AI-powered voice interview and career intelligence platform that conducts interactive technical interviews using speech recognition and LLMs. It supports dynamic follow-up questions, adaptive difficulty, candidate intent detection, answer evaluation, and performance reporting.",
+    tags: ["React.js", "FastAPI", "Groq LLM", "Whisper STT", "ElevenLabs TTS", "Vercel", "Render"],
+    github: "https://github.com/SSrushti-s/VoxHire-AI/",
+    demo: "https://voxhire-beta.vercel.app/",
+    category: "AI/ML" as ProjectCategory
+  },
+
   
 ];
 
