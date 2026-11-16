@@ -32,6 +32,14 @@ const skillCategories = [
 
 const timelineData = [
   {
+    role: "Software Intern",
+    org: "Bharat Electronics Ltd",
+    date: "Oct 2026 - Nov 2026",
+    desc: "Built a real-time weapon detection system (0.89 mAP50) using Python, PyTorch, OpenCV, and YOLO11n, supported by an automated Pandas pipeline that cleaned and standardized 9,000+ images for rapid threat alerting.",
+    icon: Code2,
+    color: "bg-indigo-600",
+  },
+  {
     role: "AI Engineer Intern",
     org: "The AI Signal",
     date: "Jul 2026 - Sep 2026",
